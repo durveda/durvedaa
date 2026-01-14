@@ -1,0 +1,1250 @@
+a,
+form h2,
+h1 {
+    color: #fff
+}
+
+form h2,
+form h3 {
+    font-size: 18px;
+    text-align: center
+}
+
+form h2,
+form h3,
+form p,
+h1 {
+    text-align: center
+}
+
+.left,
+form,
+form label {
+    float: left
+}
+
+form button,
+h1 {
+    line-height: 44px;
+    text-transform: uppercase
+}
+
+a,
+abbr,
+acronym,
+address,
+b,
+big,
+blockquote,
+body,
+cite,
+code,
+dd,
+del,
+dfn,
+div,
+dl,
+dt,
+em,
+fieldset,
+figure,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+html,
+i,
+iframe,
+img,
+ins,
+label,
+legend,
+li,
+ol,
+p,
+pre,
+q,
+small,
+span,
+strike,
+strong,
+sub,
+sup,
+tt,
+ul,
+var {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: 0 0
+}
+
+ul {
+    list-style: none
+}
+
+blockquote,
+q {
+    quotes: none
+}
+
+body {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    background-color: #000
+}
+
+#container {
+    margin: 5px auto 0;
+    width: 1004px;
+    overflow: hidden
+}
+
+h1 {
+    font-size: 27px;
+    background: #ef0000;
+    background: -moz-linear-gradient(top, #ef0000 0, #930000 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ef0000), color-stop(100%, #930000));
+    background: -webkit-linear-gradient(top, #ef0000 0, #930000 100%);
+    background: -o-linear-gradient(top, #ef0000 0, #930000 100%);
+    background: -ms-linear-gradient(top, #ef0000 0, #930000 100%);
+    background: linear-gradient(to bottom, #ef0000 0, #930000 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ef0000', endColorstr='#930000', GradientType=0)
+}
+
+.left {
+    width: 609px;
+    margin-left: 10px
+}
+
+.left a.male {
+    display: block;
+    width: 609px;
+    height: 660px;
+    text-indent: -9999px
+}
+
+form {
+    position: relative;
+    width: 358px;
+    margin-top: 14px;
+    padding: 10px;
+    -webkit-box-shadow: inset 0 0 0 1px #000;
+    -moz-box-shadow: inset 0 0 0 1px #000;
+    box-shadow: inset 0 0 0 1px #000;
+    background-size: contain !important
+}
+
+form h2 {
+    width: 358px;
+    height: 49px;
+    margin-bottom: 6px;
+    padding-top: 6px
+}
+
+form h3 {
+    margin: 10px 0
+}
+
+form h2 strong {
+    color: #fffc00;
+    font-size: 19px
+}
+
+form p {
+    font-size: 11px;
+    margin-bottom: 8px;
+    margin-top: -5px;
+    color: #00811e
+}
+
+form label {
+    display: block;
+    width: 82px;
+    margin: 0 5px 0 0;
+    text-align: right;
+    font-size: 12px;
+    line-height: 25px
+}
+
+.box1,
+.box1 .info,
+.box1 h3,
+form button {
+    text-align: center
+}
+
+form input,
+form select,
+form textarea {
+    width: 80%;
+    background-color: #fff;
+    border: 1px solid #dfdfdf;
+    padding: 0 5px;
+    font-size: 12px;
+    margin-bottom: 6px
+}
+
+form input,
+form select {
+    height: 23px
+}
+
+form textarea {
+    height: 54px
+}
+
+form select {
+    width: 83%;
+    border: 1px solid #dfdfdf;
+    margin-top: 3px
+}
+
+.blink {
+    border-color: #ed1c24
+}
+
+.input1 {
+    margin: 0 10px 12px 30px
+}
+
+.input2 {
+    width: 120px
+}
+
+.connais {
+    margin: 0 0 7px 24px
+}
+
+.connais label {
+    display: inline !important;
+    float: none !important;
+    font-size: 11px
+}
+
+.box4 img,
+.box5 img {
+    float: right
+}
+
+.connais input[type=checkbox] {
+    display: none
+}
+
+.connais input[type=checkbox] + label span {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin: 0 5px;
+    vertical-align: middle;
+    cursor: pointer
+}
+
+.connais a {
+    color: #0d5a9b
+}
+
+form button {
+    display: block;
+    width: 312px;
+    margin: 20px auto 10px;
+    border: none;
+    border-radius: 10px;
+    color: #fffc00;
+    font-size: 23px;
+    font-weight: 700;
+    background: #00c437;
+    background: -moz-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #00c437), color-stop(5%, #00a82c), color-stop(7%, #009f27), color-stop(9%, #009a26), color-stop(91%, #00741a), color-stop(95%, #00811d), color-stop(98%, #008d1f), color-stop(100%, #00a023));
+    background: -webkit-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -o-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -ms-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: linear-gradient(to bottom, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00c437', endColorstr='#00a023', GradientType=0)
+}
+
+.box1 h3,
+form button span {
+    color: #fff
+}
+
+form button:hover {
+    cursor: pointer;
+    background: #00a023;
+    background: -moz-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #00c437), color-stop(5%, #00a82c), color-stop(7%, #009f27), color-stop(9%, #009a26), color-stop(91%, #00741a), color-stop(95%, #00811d), color-stop(98%, #008d1f), color-stop(100%, #00a023));
+    background: -webkit-linear-gradient(bottom, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -o-linear-gradient(bottom, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -ms-linear-gradient(bottom, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: linear-gradient(to top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00a023', endColorstr='#00c437', GradientType=0)
+}
+
+.laposte {
+    display: block;
+    margin: 0 auto
+}
+
+.box1 .info,
+.box2 .info {
+    display: inline-block;
+    overflow: hidden
+}
+
+.box1 {
+    height: 499px
+}
+
+.box1 h3 {
+    line-height: 78px;
+    margin-bottom: 8px;
+    font-size: 27px;
+    text-transform: uppercase
+}
+
+.box2 h3,
+.box3 h3 {
+    line-height: 30px;
+    text-transform: uppercase
+}
+
+.box1 .info {
+    width: 231px;
+    height: 383px;
+    margin: 0 2px;
+    padding-top: 15px
+}
+
+.box1 .info h4 {
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase
+}
+
+.box1 .info h4 strong {
+    font-size: 21px;
+    color: #e80000
+}
+
+.box2 h3,
+.box3 h3,
+.box4 h3 {
+    font-size: 27px
+}
+
+.box1 .info img {
+    margin: 14px auto
+}
+
+.box1 .info p {
+    color: #fff;
+    text-align: left;
+    padding: 0 12px
+}
+
+.box2 h3,
+.box3,
+.box3 h3,
+.commande {
+    text-align: center
+}
+
+.box1 .info .border {
+    border: 2px solid #303030
+}
+
+.box2 {
+    background-color: #430000;
+    padding: 20px 0;
+    border-bottom: 3px solid #000
+}
+
+.box2 h3 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #fff
+}
+
+.box2 .info {
+    width: 430px;
+    /*height: 220px;*/
+    margin: 0 10px;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #fff
+}
+
+.box2 .info img {
+    float: right;
+    margin-left: 5px;
+    margin-top: 30px
+}
+
+.box2 .info h4 {
+    color: #cf0000;
+    margin-bottom: 10px
+}
+
+.box3 {
+    background-color: #232323;
+    padding: 20px 0
+}
+
+.box3 h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #fff
+}
+
+.box4 {
+    width: 903px;
+    margin: 0 auto 20px;
+    color: #fff
+}
+
+.box4 h3 {
+    line-height: 70px;
+    color: #fff;
+    text-transform: uppercase
+}
+
+.box4 strong,
+.commande {
+    color: #fffc00;
+    text-transform: uppercase;
+    display: block
+}
+
+.box4 strong {
+    font-size: 16px;
+    margin-bottom: 7px
+}
+
+.box4 p {
+    margin-bottom: 10px
+}
+
+.commande {
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px;
+    font-size: 23px;
+    line-height: 47px;
+    font-weight: 700;
+    text-decoration: none;
+    background: -moz-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #00c437), color-stop(5%, #00a82c), color-stop(7%, #009f27), color-stop(9%, #009a26), color-stop(91%, #00741a), color-stop(95%, #00811d), color-stop(98%, #008d1f), color-stop(100%, #00a023));
+    background: -webkit-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -o-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: -ms-linear-gradient(top, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    background: linear-gradient(to bottom, #00c437 0, #00a82c 5%, #009f27 7%, #009a26 9%, #00741a 91%, #00811d 95%, #008d1f 98%, #00a023 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00c437', endColorstr='#00a023', GradientType=0)
+}
+
+.box5,
+.commande span {
+    color: #fff
+}
+
+.box5 {
+    overflow: hidden;
+    margin: 0 auto;
+    padding-left: 54px;
+    padding-right: 40px;
+    background-color: #0d0503
+}
+
+.box5 h3 {
+    width: 640px;
+    margin-bottom: 30px;
+    color: #04ae2b;
+    font-size: 20px;
+    font-weight: 400
+}
+
+.box5 h3 strong {
+    display: block;
+    color: #fff;
+    font-size: 27px;
+    text-transform: uppercase
+}
+
+.box5 p {
+    width: 560px;
+    margin-bottom: 10px
+}
+
+.box5 p strong {
+    color: #fffc00;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 7px
+}
+
+#footer,
+.grid h3,
+.grid h4 {
+    color: #fff;
+    text-align: center
+}
+
+#footer {
+    padding: 24px 0;
+    font-size: 12px
+}
+
+.clearfix:after,
+.clearfix:before {
+    content: "";
+    display: table
+}
+
+.clearfix:after {
+    clear: both
+}
+
+@media screen and (max-width: 980px) {
+    #container,
+    .left,.right,
+    form,
+    h1 {
+        width: 100%
+    }
+
+    .left {
+        margin: 0
+    }
+
+    .left a.male {
+        width: 100%;
+        height: 680px;
+        background-size: cover !important
+    }
+
+    form {
+        background-size: cover;
+        padding-bottom: 50px
+    }
+
+    .confirmemail {
+        width: 320px !important
+    }
+
+    .box1 {
+        height: inherit;
+        background: 0 0 !important;
+        margin-top: 60px
+    }
+
+    .box1 h3 {
+        font-size: 40px
+    }
+
+    .box1 .info {
+        width: 40%;
+        height: 750px
+    }
+
+    .box .info h4 strong,
+    .box1 .info h4 {
+        font-size: 36px !important
+    }
+
+    .box1 .info img {
+        width: 60%
+    }
+
+    .box1 .info p {
+        font-size: 28px
+    }
+
+    a.commander {
+        display: none
+    }
+
+    .box5 h3,
+    .box5 h3 strong,
+    .box5 p {
+        font-size: 32px
+    }
+
+    .box5 p strong {
+        font-size: 26px
+    }
+}
+
+.col-1-1, .grid {
+    width: 100%
+}
+
+.col {
+    padding-bottom: 20px
+}
+
+.grid h3 {
+    line-height: 78px;
+    margin-bottom: 8px;
+    font-size: 27px;
+    text-transform: uppercase !important
+}
+
+.grid h4 {
+    font-size: 16px;
+    text-transform: uppercase
+}
+
+.grid h4 strong {
+    font-size: 21px;
+    color: #e80000;
+    text-align: center
+}
+
+.grid img {
+    margin: 14px auto
+}
+
+.grid p {
+    color: #fff;
+    text-align: left;
+    padding: 0 12px;
+    font-size: 14px
+}
+
+.grid .border {
+    border: 2px solid #303030
+}
+
+.info p {
+    font-size: 12px
+}
+
+.box4 p,
+.box5 p {
+    font-size: 14px
+}
+
+.grid:after,
+[class*=grid],
+[class*=col-],
+[class*=mobile-] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+[class*=col-] {
+    float: left;
+    min-height: 1px;
+    padding-right: 20px
+}
+
+.grid-pad,
+[class*=col-] [class*=col-]:last-child {
+    padding-right: 0
+}
+
+.grid {
+    max-width: 1140px;
+    min-width: 748px;
+    margin: 0 auto;
+    overflow: hidden
+}
+
+.grid:after {
+    content: "";
+    display: table;
+    clear: both
+}
+
+.grid-pad {
+    padding-top: 20px;
+    padding-left: 20px
+}
+
+.push-right {
+    float: right
+}
+
+.col-2-3,
+.col-8-12 {
+    width: 66.66%
+}
+
+.col-1-2,
+.col-6-12 {
+    width: 50%
+}
+
+.col-1-3,
+.col-4-12 {
+    width: 33.33%
+}
+
+.col-1-4,
+.col-3-12 {
+    width: 25%
+}
+
+.col-1-5 {
+    width: 20%
+}
+
+.col-1-6,
+.col-2-12 {
+    width: 16.667%
+}
+
+.col-1-7 {
+    width: 14.28%
+}
+
+.col-1-8 {
+    width: 12.5%
+}
+
+.col-1-9 {
+    width: 11.1%
+}
+
+.col-1-10 {
+    width: 10%
+}
+
+.col-1-11 {
+    width: 9.09%
+}
+
+.col-1-12 {
+    width: 8.33%
+}
+
+.col-11-12 {
+    width: 91.66%
+}
+
+.col-10-12 {
+    width: 83.333%
+}
+
+.col-9-12 {
+    width: 75%
+}
+
+.col-5-12 {
+    width: 41.66%
+}
+
+.col-7-12 {
+    width: 58.33%
+}
+
+.push-2-3,
+.push-8-12 {
+    margin-left: 66.66%
+}
+
+.push-1-2,
+.push-6-12 {
+    margin-left: 50%
+}
+
+.push-1-3,
+.push-4-12 {
+    margin-left: 33.33%
+}
+
+.push-1-4,
+.push-3-12 {
+    margin-left: 25%
+}
+
+.push-1-5 {
+    margin-left: 20%
+}
+
+.push-1-6,
+.push-2-12 {
+    margin-left: 16.667%
+}
+
+.push-1-7 {
+    margin-left: 14.28%
+}
+
+.push-1-8 {
+    margin-left: 12.5%
+}
+
+.push-1-9 {
+    margin-left: 11.1%
+}
+
+.push-1-10 {
+    margin-left: 10%
+}
+
+.push-1-11 {
+    margin-left: 9.09%
+}
+
+.push-1-12 {
+    margin-left: 8.33%
+}
+
+@media handheld, only screen and (max-width: 767px) {
+    form h3,
+    h1 {
+        font-size: 23px
+    }
+
+    .grid {
+        width: 100%;
+        min-width: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 20px;
+        padding-right: 10px
+    }
+
+    [class*=col-] {
+        width: auto;
+        float: none;
+        margin: 10px 0;
+        padding-left: 0;
+        padding-right: 10px
+    }
+
+    [class*=col-] [class*=col-] {
+        padding-right: 0
+    }
+
+    [class*=mobile-col-] {
+        float: left;
+        margin: 0 0 10px;
+        padding-left: 0;
+        padding-right: 10px;
+        padding-bottom: 0
+    }
+
+    .mobile-col-1-1 {
+        width: 100%
+    }
+
+    .mobile-col-2-3,
+    .mobile-col-8-12 {
+        width: 66.66%
+    }
+
+    .mobile-col-1-2,
+    .mobile-col-6-12 {
+        width: 50%
+    }
+
+    .mobile-col-1-3,
+    .mobile-col-4-12 {
+        width: 33.33%
+    }
+
+    .mobile-col-1-4,
+    .mobile-col-3-12 {
+        width: 25%
+    }
+
+    .mobile-col-1-5 {
+        width: 20%
+    }
+
+    .mobile-col-1-6,
+    .mobile-col-2-12 {
+        width: 16.667%
+    }
+
+    .mobile-col-1-7 {
+        width: 14.28%
+    }
+
+    .mobile-col-1-8 {
+        width: 12.5%
+    }
+
+    .mobile-col-1-9 {
+        width: 11.1%
+    }
+
+    .mobile-col-1-10 {
+        width: 10%
+    }
+
+    .mobile-col-1-11 {
+        width: 9.09%
+    }
+
+    .mobile-col-1-12 {
+        width: 8.33%
+    }
+
+    .mobile-col-11-12 {
+        width: 91.66%
+    }
+
+    .mobile-col-10-12 {
+        width: 83.333%
+    }
+
+    .mobile-col-9-12 {
+        width: 75%
+    }
+
+    .mobile-col-5-12 {
+        width: 41.66%
+    }
+
+    .mobile-col-7-12 {
+        width: 58.33%
+    }
+
+    .hide-on-mobile {
+        display: none !important;
+        width: 0;
+        height: 0
+    }
+
+    .left a.male {
+        width: 100%;
+        height: 360px;
+        background-size: cover !important
+    }
+
+    h1 {
+        line-height: 32px
+    }
+
+    form {
+        background-size: 100% !important;
+        padding: 0
+    }
+    .btm{
+    margin-bottom: 100px;
+    width: 100% !important;
+    margin-left: 0px !important;
+        }
+
+    form h2 {
+        width: 100%;
+        height: initial;
+        font-size: 20px;
+        padding-top: 7px
+    }
+
+    form h2 strong {
+        font-size: 21px
+    }
+
+    form p {
+        font-size: 14px;
+        padding-top: 14px
+    }
+
+    form h3 {
+        text-align: center
+    }
+
+    input[type=email],
+    input[type=tel],
+    input[type=text],
+    select {
+        height: 50px !important;
+        font-size: 17px !important;
+        display: block;
+        color: grey
+    }
+
+    input[type=email],
+    input[type=text] {
+        -webkit-appearance: none;
+        -moz-appearance: none
+    }
+
+    form label {
+        width: 172px;
+        margin: 0 5px 15px 90px;
+        text-align: left;
+        font-size: 36px !important
+    }
+
+    .box2,
+    .box3,
+    .box4,
+    .laposte {
+        margin-bottom: 30px
+    }
+
+    form button {
+        width: 80%;
+        font-size: 20px;
+        margin-top: 40px
+    }
+
+    .newcgu {
+        font-size: 14px !important;
+        line-height: 20px !important;
+        color: grey
+    }
+
+    .laposte {
+        margin-top: 30px
+    }
+
+    .grid h3 {
+        line-height: initial;
+        font-size: 22px
+    }
+
+    .colbox1 {
+        padding-top: 10px;
+        text-align: center
+    }
+
+    .colbox1 img {
+        width: 100%;
+    }
+
+    .grid h4 {
+        font-size: 20px
+    }
+
+    .grid h4 strong {
+        font-size: 26px
+    }
+
+    .box2 img {
+        margin-left: 0 !important;
+        width: 100%
+    }
+
+    .box2 .info {
+        width: 94.5%;
+        height: inherit;
+        margin-bottom: 20px
+    }
+
+    .box2 .info h4 {
+        font-size: 34px
+    }
+
+    .box2 .info img {
+        width: initial
+    }
+
+    .box2 .info p {
+        font-size: 20px
+    }
+
+    .box4 {
+        width: 100%
+    }
+
+    .box4 h3 {
+        font-size: 18px;
+        line-height: 40px
+    }
+
+    .box4 p {
+        padding: 5px
+    }
+
+    .box5 {
+        padding: 0
+    }
+
+    .box5 h3 {
+        font-size: 20px
+    }
+
+    .box5 h3 strong {
+        font-size: 24px
+    }
+
+    .box5 p {
+        font-size: 22px;
+        width: 95%
+    }
+}
+
+.colbox1 {
+    text-align: center
+}
+
+@media handheld, only screen and (max-width: 380px) {
+    form button,
+    form h2 strong {
+        font-size: 18px
+    }
+
+    form h3,
+    h1 {
+        font-size: 16px;
+        line-height: 24px
+    }
+
+    .left a.male {
+        height: 280px
+    }
+
+    form h2 {
+        font-size: 15px
+    }
+
+    input[type=email],
+    input[type=tel],
+    input[type=text],
+    select {
+        height: 40px !important
+    }
+
+    .input1 {
+        margin: 0 10px 0 30px
+    }
+
+    .newcgu {
+        font-size: 12px !important
+    }
+
+    .box2 h3,
+    .box3 h3,
+    .box4 h3 {
+        font-size: 22px
+    }
+
+    .box2 .info h4 {
+        font-size: 24px
+    }
+
+    .box3 img {
+        width: 232%
+    }
+
+    .box4 img,
+    .box5 img {
+        float: left
+    }
+
+    .box5 {
+        padding: 10px
+    }
+
+    .box4 h3,
+    .box5 h3 {
+        width: initial;
+        float: left
+    }
+
+    .box5 h3 strong {
+        font-size: 21px;
+        float: left
+    }
+
+    .box5 p {
+        font-size: 16px
+    }
+}
+
+@media handheld, only screen and (min-width: 350px) and (max-width: 375px) {
+    .left a.male {
+        height: 330px
+    }
+}
+
+@media handheld, only screen and (min-width: 760px) and (max-width: 769px) and (orientation: portrait) {
+    h1 {
+        font-size: 21px
+    }
+
+    form {
+        width: 100% !important;
+        margin: 20px 20px 20px 0;
+        background: #fcfcfc !important
+    }
+
+    form h2 {
+        width: initial;
+        color: red;
+        font-size: 28px
+    }
+
+    form h2 strong {
+        color: #09a20f;
+        font-size: 26px
+    }
+
+    form p {
+        font-size: 12px;
+        margin-bottom: 8px;
+        margin-top: 15px;
+        color: #00811e
+    }
+
+    input[type=email],
+    input[type=tel],
+    input[type=text],
+    select {
+        height: 50px !important
+    }
+
+    .input1 {
+        margin: 20px 10px 0 55px
+    }
+
+    form button {
+        font-size: 28px;
+        width: 440px;
+        height: 60px
+    }
+
+    .newcgu {
+        margin: 10px 0 10px 55px
+    }
+}
+
+@media handheld, only screen and (min-width: 620px) and (max-width: 769px) and (orientation: landscape) {
+    form h2 {
+        font-size: 33px;
+        padding-top: 18px
+    }
+
+    form h2 strong {
+        font-size: 39px
+    }
+
+    .left a.male {
+        height: 600px
+    }
+}
+
+@media handheld, only screen and (min-width: 460px) and (max-width: 490px) and (orientation: landscape) {
+    .left a.male {
+        height: 420px
+    }
+}
+
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    font-size: 100%
+}
+
+@media (min-width: 992px) {
+    .colbox1 img {
+        width: 250px;
+    }
+}
